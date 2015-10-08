@@ -1,0 +1,8 @@
+This guide is intended as a reference for those working with Maven for the first time
+but is also intended to serve as a cookbook with self-contained references and solutions for common use cases
+For first time users
+it is recommended that you step through the material in a sequential fashion
+For users more familiar with Maven
+this guide endeavours to provide a quick solution for the need at hand
+It is assumed at this point that you have downloaded Maven and installed Maven on your local machine
+If you have not done so please refer to the Download and Installation instructions
